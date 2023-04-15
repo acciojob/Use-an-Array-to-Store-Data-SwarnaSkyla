@@ -1,2 +1,1 @@
-let yourArray= ['one', 2, 'three', true, false, undefined, null];
-console.log(simpleArray.length);
+const yourArray=["Hello",1,true,false,"banana"];
